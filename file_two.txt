@@ -1,0 +1,3 @@
+example text
+Added new text
+De ce nu-mi iei textul si cum salvez un document?
